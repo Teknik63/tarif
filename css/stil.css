@@ -1,0 +1,44 @@
+h1
+{
+    color: brown;
+}
+.sunum strong
+{
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+.tarif
+{
+    text-align: center;
+    
+}
+
+.tarif strong
+{
+    color: brown;
+    font-style: italic;
+}
+
+
+.malzemeler
+{
+    width: 40%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+.malzemeler .aciklama strong
+{
+    background-color: brown;
+    color: white;
+    border-radius: 1rem;
+}
+
+.afiyet
+{
+    text-align: right;
+    font-size: 2rem;
+}
